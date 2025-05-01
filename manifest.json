@@ -7,6 +7,27 @@
       "type": "image/ico",
       "sizes": "192x192"
     },
+    {
+      "src": "/icons/circle.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/tire.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/wheel.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#673ab7"
+}
   ],
   "start_url": "/",
   "display": "standalone",
