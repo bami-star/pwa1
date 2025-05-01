@@ -1,1 +1,15 @@
-
+{
+  "short_name": "CycleTrack",
+  "name": "Cycle Tracker PWA",
+  "icons": [
+    {
+      "src": "/icons/circle.ico",
+      "type": "image/ico",
+      "sizes": "192x192"
+    },
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#673ab7"
+}
